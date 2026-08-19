@@ -1,2 +1,24 @@
-# data-analyst-90-days
-My 90-day journey to becoming a Data Analyst through learning, practice, projects, and portfolio building.
+# Day 1 - Excel Fundamentals
+
+## Topics Learned
+- Workbook and Worksheet
+- Rows and Columns
+- Cells and Ranges
+- Basic Data Types
+- Data Entry
+- Basic Formatting
+
+## Hands-on Practice
+Created an Employee Dataset containing:
+- Employee ID
+- Name
+- Department
+- Age
+- Salary
+- Joining Date
+
+## Tools Used
+- WPS Spreadsheet
+
+## Learning Goal
+Building practical Excel skills for a Data Analyst career.
