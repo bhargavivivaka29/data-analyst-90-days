@@ -22,3 +22,25 @@ Created an Employee Dataset containing:
 
 ## Learning Goal
 Building practical Excel skills for a Data Analyst career.
+
+# Excel Day 2 - Basic Formulas
+
+## Topics Learned
+- SUM
+- AVERAGE
+- MIN
+- MAX
+- COUNT
+- COUNTA
+- COUNTBLANK
+
+## Practice
+Applied Excel formulas to an employee dataset to calculate salary statistics, employee count, and missing values.
+
+## Skills
+Excel Formulas | Data Analysis | Data Cleaning Basics
+
+
+
+
+
