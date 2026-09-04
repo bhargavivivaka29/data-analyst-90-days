@@ -40,6 +40,32 @@ Applied Excel formulas to an employee dataset to calculate salary statistics, em
 ## Skills
 Excel Formulas | Data Analysis | Data Cleaning Basics
 
+# Excel Day 3 - IF Function
+
+## Topics Learned
+
+* IF Function
+* Logical Conditions
+* TRUE and FALSE results
+* Applying conditions to employee data
+* Filling formulas across multiple rows
+
+## Practice
+
+Created an employee dataset and used the IF function to classify employees based on age.
+
+### Condition
+
+* Age >= 25 → Adult
+* Age < 25 → Young
+
+## Formula Used
+
+`=IF(D2>=25,"Adult","Young")`
+
+## Skills
+
+Excel | IF Function | Logical Thinking | Data Analysis
 
 
 
