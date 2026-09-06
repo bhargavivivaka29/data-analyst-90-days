@@ -67,6 +67,34 @@ Created an employee dataset and used the IF function to classify employees based
 
 Excel | IF Function | Logical Thinking | Data Analysis
 
+# Excel Day 4 - COUNTIF Function
+
+## Topics Learned
+
+* COUNTIF Function
+* Counting cells based on conditions
+* Applying COUNTIF to employee data
+* Working with numeric and text criteria
+
+## Practice
+
+Used COUNTIF on an employee dataset to calculate:
+
+* Employees aged 25 or above
+* Number of IT employees
+* Employees with salary above ₹50,000
+
+## Formulas Used
+
+`=COUNTIF(D2:D11,">=25")`
+
+`=COUNTIF(C2:C11,"IT")`
+
+`=COUNTIF(E2:E11,">50000")`
+
+## Skills
+
+Excel | COUNTIF | Data Analysis | Logical Conditions
 
 
 
