@@ -96,5 +96,37 @@ Used COUNTIF on an employee dataset to calculate:
 
 Excel | COUNTIF | Data Analysis | Logical Conditions
 
+# Excel Day 5 - SUMIF Function
+
+## Topics Learned
+
+* SUMIF Function
+* Summing values based on conditions
+* Text-based criteria
+* Numeric criteria
+* Applying SUMIF to employee data
+
+## Practice
+
+Used SUMIF on an employee dataset to calculate:
+
+* Total salary of IT employees
+* Total salary of Finance employees
+* Total salary of employees earning above ₹50,000
+* Total salary of HR employees
+
+## Formulas Used
+
+`=SUMIF(C2:C11,"IT",E2:E11)`
+
+`=SUMIF(C2:C11,"Finance",E2:E11)`
+
+`=SUMIF(E2:E11,">50000",E2:E11)`
+
+`=SUMIF(C2:C11,"HR",E2:E11)`
+
+## Skills
+
+Excel | SUMIF | Data Analysis | Conditional Calculations
 
 
