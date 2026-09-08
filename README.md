@@ -129,4 +129,36 @@ Used SUMIF on an employee dataset to calculate:
 
 Excel | SUMIF | Data Analysis | Conditional Calculations
 
+# Excel Day 6 - AVERAGEIF Function
+
+## Topics Learned
+
+* AVERAGEIF Function
+* Calculating averages based on conditions
+* Text-based criteria
+* Applying AVERAGEIF to employee data
+
+## Practice
+
+Used AVERAGEIF on an employee dataset to calculate:
+
+* Average salary of IT employees
+* Average salary of Finance employees
+* Average salary of HR employees
+* Average salary of Sales employees
+
+## Formulas Used
+
+`=AVERAGEIF(C2:C11,"IT",E2:E11)`
+
+`=AVERAGEIF(C2:C11,"Finance",E2:E11)`
+
+`=AVERAGEIF(C2:C11,"HR",E2:E11)`
+
+`=AVERAGEIF(C2:C11,"Sales",E2:E11)`
+
+## Skills
+
+Excel | AVERAGEIF | Data Analysis | Conditional Calculations
+
 
