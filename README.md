@@ -161,4 +161,38 @@ Used AVERAGEIF on an employee dataset to calculate:
 
 Excel | AVERAGEIF | Data Analysis | Conditional Calculations
 
+# Excel Day 7 - COUNTIFS Function
+
+## Topics Learned
+
+* COUNTIFS Function
+* Multiple conditions
+* Counting records based on multiple criteria
+* Conditional data analysis
+
+## Practice
+
+Used COUNTIFS on an employee dataset to calculate:
+
+* IT employees aged 25 or above
+* Finance employees aged 30 or above
+* Sales employees with salary above ₹45,000
+
+## Formulas Used
+
+`=COUNTIFS(C2:C11,"IT",D2:D11,">=25")`
+
+`=COUNTIFS(C2:C11,"Finance",D2:D11,">=30")`
+
+`=COUNTIFS(C2:C11,"Sales",E2:E11,">45000")`
+
+## Results
+
+* IT employees aged 25+ → 2
+* Finance employees aged 30+ → 2
+* Sales employees with salary above ₹45,000 → 1
+
+## Skills
+
+Excel | COUNTIFS | Conditional Analysis | Data Analysis
 
