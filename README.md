@@ -196,3 +196,37 @@ Used COUNTIFS on an employee dataset to calculate:
 
 Excel | COUNTIFS | Conditional Analysis | Data Analysis
 
+# Excel Day 8 - SUMIFS Function
+
+## Topics Learned
+
+* SUMIFS Function
+* Multiple criteria
+* Conditional sum
+* Data analysis using Excel
+
+## Practice
+
+Used SUMIFS on an employee dataset to calculate:
+
+* Total salary of IT employees → ₹162,000
+* Total salary of Finance employees → ₹190,000
+* Total salary of Sales employees → ₹94,000
+* Total salary of employees earning above ₹50,000 → ₹310,000
+* Total salary of HR employees → ₹93,000
+
+## Formulas Used
+
+`=SUMIFS(E2:E11,C2:C11,"IT")`
+
+`=SUMIFS(E2:E11,C2:C11,"Finance")`
+
+`=SUMIFS(E2:E11,C2:C11,"Sales")`
+
+`=SUMIFS(E2:E11,E2:E11,">50000")`
+
+`=SUMIFS(E2:E11,C2:C11,"HR")`
+
+## Skills
+
+Excel | SUMIFS | Conditional Analysis | Data Analysis
