@@ -230,3 +230,41 @@ Used SUMIFS on an employee dataset to calculate:
 ## Skills
 
 Excel | SUMIFS | Conditional Analysis | Data Analysis
+
+
+# Excel Day 9 - MAXIFS & MINIFS
+
+## Topics Learned
+
+* MAXIFS Function
+* MINIFS Function
+* Finding maximum values based on conditions
+* Finding minimum values based on conditions
+* Conditional data analysis
+
+## Practice
+
+Used MAXIFS and MINIFS on an employee dataset to calculate:
+
+* IT highest salary → ₹62,000
+* IT lowest salary → ₹42,000
+* Finance highest salary → ₹70,000
+* Finance lowest salary → ₹55,000
+* Sales highest salary → ₹50,000
+
+## Formulas Used
+
+`=MAXIFS(E2:E11,C2:C11,"IT")`
+
+`=MINIFS(E2:E11,C2:C11,"IT")`
+
+`=MAXIFS(E2:E11,C2:C11,"Finance")`
+
+`=MINIFS(E2:E11,C2:C11,"Finance")`
+
+`=MAXIFS(E2:E11,C2:C11,"Sales")`
+
+## Skills
+
+Excel | MAXIFS | MINIFS | Conditional Analysis | Data Analysis
+
