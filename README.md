@@ -268,3 +268,29 @@ Used MAXIFS and MINIFS on an employee dataset to calculate:
 
 Excel | MAXIFS | MINIFS | Conditional Analysis | Data Analysis
 
+# Day 10 – Excel XLOOKUP
+
+## Topic
+
+XLOOKUP Function
+
+## What I Learned
+
+* How to search for a value in a column
+* How to return a matching value from another column
+* Using XLOOKUP for employee data analysis
+
+## Practice
+
+* Retrieved employee names using Employee ID
+* Retrieved departments using Employee ID
+* Retrieved salaries using Employee ID
+* Combined multiple XLOOKUP results
+
+## Tools Used
+
+* Excel / WPS Spreadsheet
+
+## Skills
+
+Excel | XLOOKUP | Data Lookup | Data Analysis
