@@ -294,3 +294,31 @@ XLOOKUP Function
 ## Skills
 
 Excel | XLOOKUP | Data Lookup | Data Analysis
+
+
+# Day 11 – Excel Pivot Tables
+
+## Topic
+
+Pivot Tables
+
+## What I Learned
+
+* Creating Pivot Tables
+* Summarizing sales data
+* Analyzing sales by region, product, and category
+* Counting orders using Pivot Tables
+
+## Practice
+
+* Region-wise sales and order count
+* Product-wise sales and order count
+* Category-wise sales
+
+## Tools Used
+
+* Excel / WPS Spreadsheet
+
+## Skills
+
+Excel | Pivot Tables | Data Analysis | Data Summarization
