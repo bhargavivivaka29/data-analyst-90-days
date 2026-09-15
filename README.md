@@ -322,3 +322,35 @@ Pivot Tables
 ## Skills
 
 Excel | Pivot Tables | Data Analysis | Data Summarization
+
+
+# Day 12 – Excel Pivot Charts & Slicers
+
+## Topic
+
+Pivot Charts & Slicers
+
+## What I Learned
+
+* Creating charts from Pivot Table data
+* Visualizing product-wise sales
+* Formatting and adding chart titles
+* Understanding the use of slicers for interactive filtering
+
+## Practice
+
+* Created a product-wise sales chart
+* Added the chart title "Sales by Product"
+* Explored slicer functionality in WPS Spreadsheet
+
+## Note
+
+Slicer functionality was not available in my WPS Spreadsheet version.
+
+## Tools Used
+
+* Excel / WPS Spreadsheet
+
+## Skills
+
+Excel | Pivot Tables | Pivot Charts | Data Visualization
