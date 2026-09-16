@@ -354,3 +354,26 @@ Slicer functionality was not available in my WPS Spreadsheet version.
 ## Skills
 
 Excel | Pivot Tables | Pivot Charts | Data Visualization
+
+
+# Day 13 – Excel Data Cleaning
+
+## Topic
+Data Cleaning
+
+## What I Learned
+- Removing duplicate records
+- Using TRIM to remove extra spaces
+- Using CLEAN to remove unwanted characters
+- Combining TRIM and CLEAN
+
+## Practice
+- Removed duplicate employee records
+- Cleaned names with extra spaces
+- Used TRIM and CLEAN for cleaner data
+
+## Tools Used
+- Excel / WPS Spreadsheet
+
+## Skills
+Excel | Data Cleaning | TRIM | CLEAN
